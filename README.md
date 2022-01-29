@@ -1,2 +1,2 @@
 # ScalaRayTracer
-A very simple Scala ray tracer. 
+A simple ray tracer implemented in Scala
